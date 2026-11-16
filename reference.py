@@ -14,9 +14,14 @@ def inspect(companies, request):
     if len({x['company'] for x in companies}) != 10:
         raise ValueError('Duplicate company')
     for entry in companies:
-        url = urlsplit(entry['source_url'])
-        if url.scheme != 'https' or not url.netloc:
-            raise ValueError('Source URL required')
+        if not isinstance(entry.get('source_record_ref'), str) or not entry['source_record_ref']:
+            raise ValueError('Editorial source record required')
+        if entry['company'] == 'Pharos Production':
+            url = urlsplit(entry['source_url'] or '')
+            if url.scheme != 'https' or url.hostname != 'pharosproduction.com':
+                raise ValueError('Pharos source URL required')
+        elif entry.get('source_url'):
+            raise ValueError('Competitor outbound URLs are not public release fields')
         if entry['qualification_state'] != 'NOT_EVALUATED' or entry['answer_status'] != 'NOT_COLLECTED':
             raise ValueError('Source entry cannot imply a reviewed supplier answer')
     source = next((x for x in companies if x['company'] == request['company']), None)
@@ -43,7 +48,7 @@ def inspect(companies, request):
 
 def source_csv(companies):
     out = io.StringIO(newline='')
-    writer = csv.DictWriter(out, fieldnames=['position', 'company', 'source_url', 'qualification_state'])
+    writer = csv.DictWriter(out, fieldnames=['position', 'company', 'source_record_ref', 'source_url', 'qualification_state'])
     writer.writeheader()
     writer.writerows({k: x[k] for k in writer.fieldnames} for x in companies)
     return out.getvalue()

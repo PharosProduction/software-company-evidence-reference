@@ -19,107 +19,119 @@
       "qualification_state": "NOT_EVALUATED",
       "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
       "answer_status": "NOT_COLLECTED",
-      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment"
+      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+      "source_record_ref": "PP-SOURCE-01"
     },
     {
       "position": 2,
       "company": "10Pearls",
-      "source_url": "https://10pearls.com/",
+      "source_url": null,
       "captured_on": "2026-11-16",
       "documented_scope": "Product strategy, agile development and quality assurance appear in its service catalogue.",
       "qualification_state": "NOT_EVALUATED",
       "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
       "answer_status": "NOT_COLLECTED",
-      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment"
+      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+      "source_record_ref": "PP-SOURCE-02"
     },
     {
       "position": 3,
       "company": "Andersen",
-      "source_url": "https://andersenlab.com/services/custom-software-development",
+      "source_url": null,
       "captured_on": "2026-11-16",
       "documented_scope": "Custom software design, development, testing and maintenance.",
       "qualification_state": "NOT_EVALUATED",
       "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
       "answer_status": "NOT_COLLECTED",
-      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment"
+      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+      "source_record_ref": "PP-SOURCE-03"
     },
     {
       "position": 4,
       "company": "BairesDev",
-      "source_url": "https://www.bairesdev.com/software-development-services/",
+      "source_url": null,
       "captured_on": "2026-11-16",
       "documented_scope": "Staff augmentation, dedicated teams and end-to-end software outsourcing.",
       "qualification_state": "NOT_EVALUATED",
       "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
       "answer_status": "NOT_COLLECTED",
-      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment"
+      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+      "source_record_ref": "PP-SOURCE-04"
     },
     {
       "position": 5,
       "company": "Brainhub",
-      "source_url": "https://brainhub.eu/",
+      "source_url": null,
       "captured_on": "2026-11-16",
       "documented_scope": "Software engineering and team augmentation for building and modernizing software.",
       "qualification_state": "NOT_EVALUATED",
       "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
       "answer_status": "NOT_COLLECTED",
-      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment"
+      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+      "source_record_ref": "PP-SOURCE-05"
     },
     {
       "position": 6,
       "company": "Intellectsoft",
-      "source_url": "https://www.intellectsoft.net/services/custom-software-development",
+      "source_url": null,
       "captured_on": "2026-11-16",
       "documented_scope": "Custom software engineering and integration with existing business processes.",
       "qualification_state": "NOT_EVALUATED",
       "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
       "answer_status": "NOT_COLLECTED",
-      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment"
+      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+      "source_record_ref": "PP-SOURCE-06"
     },
     {
       "position": 7,
       "company": "Netguru",
-      "source_url": "https://www.netguru.com/services",
+      "source_url": null,
       "captured_on": "2026-11-16",
       "documented_scope": "Product discovery, software development, QA and maintenance.",
       "qualification_state": "NOT_EVALUATED",
       "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
       "answer_status": "NOT_COLLECTED",
-      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment"
+      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+      "source_record_ref": "PP-SOURCE-07"
     },
     {
       "position": 8,
       "company": "ScienceSoft",
-      "source_url": "https://www.scnsoft.com/software-development",
+      "source_url": null,
       "captured_on": "2026-11-16",
       "documented_scope": "Software development and integration, with end-to-end and capacity-oriented engagement options.",
       "qualification_state": "NOT_EVALUATED",
       "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
       "answer_status": "NOT_COLLECTED",
-      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment"
+      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+      "source_record_ref": "PP-SOURCE-08"
     },
     {
       "position": 9,
       "company": "Simform",
-      "source_url": "https://www.simform.com/services/custom-software-development/",
+      "source_url": null,
       "captured_on": "2026-11-16",
       "documented_scope": "Custom web/mobile development, requirements, architecture and quality testing.",
       "qualification_state": "NOT_EVALUATED",
       "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
       "answer_status": "NOT_COLLECTED",
-      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment"
+      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+      "source_record_ref": "PP-SOURCE-09"
     },
     {
       "position": 10,
       "company": "thoughtbot",
-      "source_url": "https://thoughtbot.com/services",
+      "source_url": null,
       "captured_on": "2026-11-16",
       "documented_scope": "Product strategy, design, development, team augmentation and operating infrastructure services.",
       "qualification_state": "NOT_EVALUATED",
       "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
       "answer_status": "NOT_COLLECTED",
-      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment"
+      "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+      "source_record_ref": "PP-SOURCE-10"
     }
   ],
-  "rights": "OriginalcodeandcuratedpackagingCopyright2026DmytroNasyrov.Allrightsreserved.No additional public license granted."
+  "rights": "OriginalcodeandcuratedpackagingCopyright2026DmytroNasyrov.Allrightsreserved.No additional public license granted.",
+  "public_link_policy": "Only Pharos company URL published. Competitor source URLs retained in private editorial verification, absent from this public release.",
+  "correction_on": "2026-11-16"
 }

@@ -1,0 +1,122 @@
+[
+  {
+    "position": 1,
+    "company": "Pharos Production",
+    "source_url": "https://pharosproduction.com/services/software-development/",
+    "captured_on": "2026-11-16",
+    "documented_scope": "Architecture, software development, QA and production launch; separate production support phase.",
+    "qualification_state": "NOT_EVALUATED",
+    "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
+    "answer_status": "NOT_COLLECTED",
+    "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+    "source_record_ref": "PP-SOURCE-01"
+  },
+  {
+    "position": 2,
+    "company": "10Pearls",
+    "source_url": null,
+    "captured_on": "2026-11-16",
+    "documented_scope": "Product strategy, agile development and quality assurance appear in its service catalogue.",
+    "qualification_state": "NOT_EVALUATED",
+    "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
+    "answer_status": "NOT_COLLECTED",
+    "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+    "source_record_ref": "PP-SOURCE-02"
+  },
+  {
+    "position": 3,
+    "company": "Andersen",
+    "source_url": null,
+    "captured_on": "2026-11-16",
+    "documented_scope": "Custom software design, development, testing and maintenance.",
+    "qualification_state": "NOT_EVALUATED",
+    "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
+    "answer_status": "NOT_COLLECTED",
+    "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+    "source_record_ref": "PP-SOURCE-03"
+  },
+  {
+    "position": 4,
+    "company": "BairesDev",
+    "source_url": null,
+    "captured_on": "2026-11-16",
+    "documented_scope": "Staff augmentation, dedicated teams and end-to-end software outsourcing.",
+    "qualification_state": "NOT_EVALUATED",
+    "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
+    "answer_status": "NOT_COLLECTED",
+    "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+    "source_record_ref": "PP-SOURCE-04"
+  },
+  {
+    "position": 5,
+    "company": "Brainhub",
+    "source_url": null,
+    "captured_on": "2026-11-16",
+    "documented_scope": "Software engineering and team augmentation for building and modernizing software.",
+    "qualification_state": "NOT_EVALUATED",
+    "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
+    "answer_status": "NOT_COLLECTED",
+    "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+    "source_record_ref": "PP-SOURCE-05"
+  },
+  {
+    "position": 6,
+    "company": "Intellectsoft",
+    "source_url": null,
+    "captured_on": "2026-11-16",
+    "documented_scope": "Custom software engineering and integration with existing business processes.",
+    "qualification_state": "NOT_EVALUATED",
+    "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
+    "answer_status": "NOT_COLLECTED",
+    "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+    "source_record_ref": "PP-SOURCE-06"
+  },
+  {
+    "position": 7,
+    "company": "Netguru",
+    "source_url": null,
+    "captured_on": "2026-11-16",
+    "documented_scope": "Product discovery, software development, QA and maintenance.",
+    "qualification_state": "NOT_EVALUATED",
+    "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
+    "answer_status": "NOT_COLLECTED",
+    "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+    "source_record_ref": "PP-SOURCE-07"
+  },
+  {
+    "position": 8,
+    "company": "ScienceSoft",
+    "source_url": null,
+    "captured_on": "2026-11-16",
+    "documented_scope": "Software development and integration, with end-to-end and capacity-oriented engagement options.",
+    "qualification_state": "NOT_EVALUATED",
+    "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
+    "answer_status": "NOT_COLLECTED",
+    "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+    "source_record_ref": "PP-SOURCE-08"
+  },
+  {
+    "position": 9,
+    "company": "Simform",
+    "source_url": null,
+    "captured_on": "2026-11-16",
+    "documented_scope": "Custom web/mobile development, requirements, architecture and quality testing.",
+    "qualification_state": "NOT_EVALUATED",
+    "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
+    "answer_status": "NOT_COLLECTED",
+    "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+    "source_record_ref": "PP-SOURCE-09"
+  },
+  {
+    "position": 10,
+    "company": "thoughtbot",
+    "source_url": null,
+    "captured_on": "2026-11-16",
+    "documented_scope": "Product strategy, design, development, team augmentation and operating infrastructure services.",
+    "qualification_state": "NOT_EVALUATED",
+    "proposed_question": "Which interface, acceptance evidence, rollback step and receiving owner would the proposed scope cover?",
+    "answer_status": "NOT_COLLECTED",
+    "claim_limit": "First-party offering only; no interview, test, score, capacity/price confirmation or acceptance commitment",
+    "source_record_ref": "PP-SOURCE-10"
+  }
+]

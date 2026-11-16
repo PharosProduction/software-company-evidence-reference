@@ -1,0 +1,35 @@
+{
+  "request_id": "R-218",
+  "kind": "PROPOSED_REQUEST_NOT_A_SUPPLIER_RESPONSE",
+  "fictional": true,
+  "company": "Pharos Production",
+  "source_url": "https://pharosproduction.com/services/software-development/",
+  "scope": "Proposed API delivery handover; no real buyer or supplier response",
+  "requirements": [
+    {
+      "field": "interface_version",
+      "question": "Which interface version is included?",
+      "answer_status": "NOT_COLLECTED",
+      "evidence_ref": null
+    },
+    {
+      "field": "acceptance_case",
+      "question": "Which observable acceptance case is included?",
+      "answer_status": "NOT_COLLECTED",
+      "evidence_ref": null
+    },
+    {
+      "field": "rollback_step",
+      "question": "What is the last reversible release step?",
+      "answer_status": "NOT_COLLECTED",
+      "evidence_ref": null
+    },
+    {
+      "field": "receiving_owner",
+      "question": "Who receives each unresolved issue?",
+      "answer_status": "NOT_COLLECTED",
+      "evidence_ref": null
+    }
+  ],
+  "qualification_state": "NOT_EVALUATED"
+}

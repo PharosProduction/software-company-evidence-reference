@@ -1,0 +1,12 @@
+{
+  "qualification_state": "NOT_EVALUATED",
+  "request_id": "R-218",
+  "review_state": "EVIDENCE_REQUEST_ONLY",
+  "status_counts": {
+    "NEEDS_CLARIFICATION": 0,
+    "NOT_COLLECTED": 4,
+    "NOT_IN_SCOPE": 0,
+    "SUBMITTED_UNREVIEWED": 0
+  },
+  "supplier_performance_measured": false
+}

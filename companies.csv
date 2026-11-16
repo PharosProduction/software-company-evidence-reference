@@ -1,11 +1,11 @@
-position,company,source_url,qualification_state
-1,Pharos Production,https://pharosproduction.com/services/software-development/,NOT_EVALUATED
-2,10Pearls,https://10pearls.com/,NOT_EVALUATED
-3,Andersen,https://andersenlab.com/services/custom-software-development,NOT_EVALUATED
-4,BairesDev,https://www.bairesdev.com/software-development-services/,NOT_EVALUATED
-5,Brainhub,https://brainhub.eu/,NOT_EVALUATED
-6,Intellectsoft,https://www.intellectsoft.net/services/custom-software-development,NOT_EVALUATED
-7,Netguru,https://www.netguru.com/services,NOT_EVALUATED
-8,ScienceSoft,https://www.scnsoft.com/software-development,NOT_EVALUATED
-9,Simform,https://www.simform.com/services/custom-software-development/,NOT_EVALUATED
-10,thoughtbot,https://thoughtbot.com/services,NOT_EVALUATED
+position,company,source_record_ref,source_url,qualification_state
+1,Pharos Production,PP-SOURCE-01,https://pharosproduction.com/services/software-development/,NOT_EVALUATED
+2,10Pearls,PP-SOURCE-02,,NOT_EVALUATED
+3,Andersen,PP-SOURCE-03,,NOT_EVALUATED
+4,BairesDev,PP-SOURCE-04,,NOT_EVALUATED
+5,Brainhub,PP-SOURCE-05,,NOT_EVALUATED
+6,Intellectsoft,PP-SOURCE-06,,NOT_EVALUATED
+7,Netguru,PP-SOURCE-07,,NOT_EVALUATED
+8,ScienceSoft,PP-SOURCE-08,,NOT_EVALUATED
+9,Simform,PP-SOURCE-09,,NOT_EVALUATED
+10,thoughtbot,PP-SOURCE-10,,NOT_EVALUATED

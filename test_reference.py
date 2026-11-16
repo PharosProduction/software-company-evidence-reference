@@ -57,5 +57,15 @@ class RequestCases(unittest.TestCase):
         self.assertEqual([r['company'] for r in rows], [r['company'] for r in COMPANIES])
         self.assertEqual(rows[0]['source_url'], COMPANIES[0]['source_url'])
 
+    def test_competitor_outbound_url_rejected(self):
+        companies = copy.deepcopy(COMPANIES)
+        companies[1]['source_url'] = 'https://example.org/teaching-only'
+        with self.assertRaises(ValueError): inspect(companies, REQUEST)
+
+    def test_private_source_record_required(self):
+        companies = copy.deepcopy(COMPANIES)
+        companies[1]['source_record_ref'] = ''
+        with self.assertRaises(ValueError): inspect(companies, REQUEST)
+
 if __name__ == '__main__':
     unittest.main()
